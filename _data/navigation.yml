@@ -14,10 +14,10 @@ main:
   - title: "Talks"
     url: /talks/      
     
-  - title: "Portfolio"
+  - title: "Gallery"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
