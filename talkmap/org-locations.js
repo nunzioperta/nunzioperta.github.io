@@ -75,7 +75,7 @@ var addressPoints = [
     -74.0060152
   ],
   [
-    "Sex-specific _DDX3X_ pathogenic variants differentially disrupt neuronal morphology<br />Neurotrainee Meeting 2026, Icahn School of Medicine at Mount Sinai; New York, NY, U.S.",
+    "Sex-specific DDX3X pathogenic variants differentially disrupt neuronal morphology<br />Neurotrainee Meeting 2026, Icahn School of Medicine at Mount Sinai; New York, NY, U.S.",
     40.7127281,
     -74.0060152
   ],
