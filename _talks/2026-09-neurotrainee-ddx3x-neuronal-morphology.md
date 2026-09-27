@@ -1,5 +1,5 @@
 ---
-title: "Sex-specific DDX3X pathogenic variants differentially disrupt neuronal morphology"
+title: "Sex-specific _DDX3X_ pathogenic variants differentially disrupt neuronal morphology"
 collection: talks
 type: "Oral presentation"
 permalink: /talks/2026-09-neurotrainee-ddx3x-neuronal-morphology/
